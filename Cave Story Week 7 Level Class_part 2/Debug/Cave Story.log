@@ -1,5 +1,0 @@
-﻿  level.cpp
-C:\Users\Michael\Desktop\Cave Story\level.cpp(90,26): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Michael\Desktop\Cave Story\level.cpp(51,10): warning C4101: 'path': unreferenced local variable
-C:\Users\Michael\Desktop\Cave Story\level.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
-  Cave Story.vcxproj -> C:\Users\Michael\Desktop\Cave Story\Debug\Cave Story.exe
