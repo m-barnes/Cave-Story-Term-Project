@@ -1,8 +1,0 @@
-﻿  game.cpp
-C:\Users\Michael\Desktop\Cave Story - Copy\game.cpp(73,19): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
-          with
-          [
-              _Ty=int
-          ]
-C:\Users\Michael\Desktop\Cave Story - Copy\game.cpp(91,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Cave Story.vcxproj -> C:\Users\Michael\Desktop\Cave Story - Copy\Debug\Cave Story.exe
