@@ -1,0 +1,9 @@
+﻿  game.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\game.cpp(93,19): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Michael\Desktop\Cave Story\game.cpp(111,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Cave Story.vcxproj -> C:\Users\Michael\Desktop\Cave Story\Debug\Cave Story.exe
