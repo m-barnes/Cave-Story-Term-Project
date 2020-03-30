@@ -1,0 +1,10 @@
+﻿  bat.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(17,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(17,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(17,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(17,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(9,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(10,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(22,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Cave Story.vcxproj -> C:\Users\Michael\Desktop\Cave Story\Debug\Cave Story.exe
