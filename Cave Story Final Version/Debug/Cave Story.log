@@ -1,0 +1,157 @@
+﻿  Cave Story.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  animatedSprite.cpp
+C:\Users\Michael\Desktop\Cave Story\animatedSprite.cpp(46,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\animatedSprite.cpp(65,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\animatedSprite.cpp(66,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  animatedtile.cpp
+C:\Users\Michael\Desktop\Cave Story\animatedtile.cpp(31,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\animatedtile.cpp(31,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\animatedtile.cpp(31,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\animatedtile.cpp(31,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  bat.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(9,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(10,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\bat.cpp(22,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  enemy.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\enemy.cpp(8,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\enemy.cpp(8,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\enemy.cpp(8,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\enemy.cpp(19,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\enemy.cpp(19,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\game.cpp(96,19): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Michael\Desktop\Cave Story\game.cpp(115,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\game.cpp(117,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  hud.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(25,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(29,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(29,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(30,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(30,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(31,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(31,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(32,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(32,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(33,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(33,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(34,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(34,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(35,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(35,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(36,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\hud.cpp(36,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  level.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(74,47): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(119,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(166,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(175,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(220,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(219,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(218,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(217,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(235,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(235,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(247,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(254,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(258,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(257,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(260,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(259,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(278,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(278,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(295,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(295,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(295,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(295,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(340,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(340,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\level.cpp(53,10): warning C4101: 'path': unreferenced local variable
+C:\Users\Michael\Desktop\Cave Story\level.cpp(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(382,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(385,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(388,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(397,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(408,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(418,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\level.cpp(428,20): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+C:\Users\Michael\Desktop\Cave Story\slope.h(21,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\door.h(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(16,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(16,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(31,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(31,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(41,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\player.cpp(141,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(145,71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(150,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(153,71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\player.cpp(164,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(166,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(169,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(176,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\Cave Story\player.cpp(179,42): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(180,42): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\player.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+  sprite.cpp
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(24,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(24,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(24,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(24,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(31,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(31,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(31,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(31,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(36,63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(36,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(36,108): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\sprite.cpp(36,108): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  tile.cpp
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(11,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(11,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(20,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(20,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(20,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Michael\Desktop\Cave Story\tile.cpp(20,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Cave Story.vcxproj -> C:\Users\Michael\Desktop\Cave Story\Debug\Cave Story.exe
