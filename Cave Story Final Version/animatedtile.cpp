@@ -1,6 +1,6 @@
 #include "animatedtile.h"
 
-//custom constructor
+//custom constructor for creating animated tiles
 AnimatedTile::AnimatedTile(vector<Vector2>tilesetPositions, int duration, SDL_Texture* tileset, Vector2 size, Vector2 position) :
 	Tile(tileset, size, tilesetPositions.at(0), position),
 	_tilesetPositions(tilesetPositions),
